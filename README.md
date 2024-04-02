@@ -1,6 +1,8 @@
 # hello-malli
 
-FIXME: description
+practical hand on practice using malli from the example on youtube title "Malli getting started - best library to work with schemas in Clojure"
+
+https://youtu.be/n6OeKHm4BSQ?si=l6PbVZnTXa-_SV3q
 
 ## Installation
 
